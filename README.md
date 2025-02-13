@@ -1,5 +1,5 @@
 # Programming Foundations
-Repositório dos treinos de programação desenvolvidos durante o Programa ONE, parceria de Alura + Oracle..
+Repositório dos treinos de programação desenvolvidos durante o Programa ONE, parceria de Alura + Oracle...
 
 ## Tecnologias
 <div>
